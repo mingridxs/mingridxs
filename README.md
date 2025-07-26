@@ -4,5 +4,4 @@
 - 📫 Como falar comigo: maria.ingrid@ufpi.edu.br
 - 😄 Pronomes: ela/dela
 - 📍 Localização: Teresina, Piauí
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingridxs)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingridxs&show_icons=true&theme=radical)
