@@ -8,6 +8,6 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingridxs&show_icons=true&theme=radical)
 
-<i class="devicon-c-original"></i>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+          
             
