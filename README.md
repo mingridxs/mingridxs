@@ -5,13 +5,11 @@
 - 😄 Pronomes: ela/dela
 - 📍 Localização: Teresina, Piauí
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mingridxs&show_icons=true&theme=radical" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=mingridxs&show_icons=true&theme=radical)
 
-<p align="center">
-  <img alt="Maria-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img alt="Maria-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img alt="Maria-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</p>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Maria-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Maria-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Maria-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
