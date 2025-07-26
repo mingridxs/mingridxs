@@ -6,7 +6,6 @@
 - 📍 Localização: Teresina, Piauí
 
 ![Estatísticas do meu GitHub](https://github-readme-stats.vercel.app/api?username=mingridxs&show_icons=true&theme=radical)
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Maria-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Maria-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
