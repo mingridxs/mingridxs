@@ -1,63 +1,41 @@
-<div align="center">
+## Profile snapshot
 
-# Olá, eu sou a Maria Ingrid 👋
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=mingridxs&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F204255422%3Fu%3D0cdbe281e73ad7d2c9e2a46f23e14c03efde692b%26v%3D4" alt="mingridxs hero visual" />
+</p>
 
-### Estudante de Ciência da Computação | Desenvolvedora Fullstack
+**maria ingrid xavier** · Frontend or full-stack engineer
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=C97BE0&center=true&vCenter=true&width=500&lines=Sempre+aprendendo+algo+novo+%F0%9F%8C%B1;Backend+%26+Frontend;Curiosa+por+natureza+%E2%9C%A8" alt="Typing SVG" />
-</a>
+## About
 
-</div>
+Cursando Ciência da Computação na Universidade Federal do Piauí
 
-<br>
+- 📍 Based in **Teresina, Piauí.**
+- 👥 **6** followers · **0** following
 
-- 📫 Contato: [maria.ingrid@ufpi.edu.br](mailto:maria.ingrid@ufpi.edu.br)
-- 📍 Teresina, Piauí
+## Proof at a glance
 
-<br>
+<table>
+<tr><td align="center"><b>4</b><br/><sub>repos</sub></td><td align="center"><b>1</b><br/><sub>stars</sub></td><td align="center"><b>168</b><br/><sub>contributions</sub></td></tr>
+</table>
 
-<div align="center">
+## Core toolkit
 
-### 🛠️ Tecnologias
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" title="OpenGL" alt="OpenGL" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+## Selected work
 
-</div>
+- **[Loja-em-C](https://github.com/mingridxs/Loja-em-C)** — Projeto inicial de loja feito C. · ⭐ 1
+- **[solidade-honda](https://github.com/mingridxs/solidade-honda)** — Aplicação full stack com frontend e backend integrados, desenvolvida em TypeScript, utilizando Deno + Hono no backend e Supabase para autenticação e banco de dados. · ⭐ 0
+- **[dashboard-dados-python](https://github.com/mingridxs/dashboard-dados-python)** — Featured public work · ⭐ 0
+- **[mingridxs](https://github.com/mingridxs/mingridxs)** — Featured public work · ⭐ 0
 
-<br>
+## Let’s connect
 
-<div align="center">
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=mingridxs&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F204255422%3Fu%3D0cdbe281e73ad7d2c9e2a46f23e14c03efde692b%26v%3D4" alt="mingridxs social visual" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mingridxs&theme=radical&hide_border=true" width="70%"/>
+<a href="https://github.com/mingridxs">GitHub</a>
 
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://www.instagram.com/mingridxs" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.linkedin.com/in/maria-ingrid-xavier-sousa-computacao" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:maria.ingrid@ufpi.edu.br" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mingridxs&style=flat-square&color=C97BE0" alt="Profile views"/>
-</div>
+<p align="center"><sub>maria ingrid xavier · Recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
